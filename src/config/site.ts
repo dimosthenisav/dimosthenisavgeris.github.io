@@ -1,23 +1,22 @@
 import type { Locale } from './i18n';
 
 export const siteConfig = {
-  name: 'Astro Narrow',
-  shortName: 'Astro Narrow',
-  description: 'A content-focused Astro theme inspired by Hugo Narrow.',
+  name: 'Dimosthenis Avgeris',
+  shortName: 'Dimos Avgeris',
+  description: 'On the quest to master my craft — a pragmatic product management journey.',
   author: {
-    name: 'Astro Narrow',
+    name: 'Dimosthenis Avgeris',
     title: {
-      en: 'A clean and minimal Astro theme',
-      'zh-cn': '一个干净克制的 Astro 主题'
+      en: 'Head of Product at instacar'
     },
     description: {
-      en: 'Writing, projects, and notes — a compact space for ideas that keep their shape.',
-      'zh-cn': '写作、项目与笔记 —— 一个保持克制、注重结构感的内容空间。'
+      en: 'Writing about pragmatic product management, mindset, and the occasional side project. This blog is a document of my journey.'
     },
     avatar: '/favicon.svg',
     social: [
-      { name: 'GitHub', url: 'https://github.com/', icon: 'simple-icons:github' },
-      { name: 'Email', url: 'mailto:hello@example.com', icon: 'lucide:mail' }
+      { name: 'LinkedIn', url: 'https://www.linkedin.com/in/dimosthenis-avgeris/', icon: 'simple-icons:linkedin' },
+      { name: 'GitHub', url: 'https://github.com/dimosthenisav', icon: 'simple-icons:github' },
+      { name: 'Email', url: 'mailto:dimosthenisavgeris@gmail.com', icon: 'lucide:mail' }
     ]
   },
   contentWidth: '56rem',
@@ -33,12 +32,18 @@ export const siteConfig = {
   // or an inline link. Inline links accept internal paths and external URLs:
   // { label: 'Astro', href: 'https://astro.build/', icon: 'lucide:rocket' }
   // { label: { en: 'About', 'zh-cn': '关于' }, href: '/about/' }
-  nav: ['posts', 'projects', 'archives'],
-  footerNav: ['archives'],
+  nav: [
+    'posts',
+    'projects',
+    'archives',
+    { label: 'Reads', href: '/reads/' },
+    { label: 'About', href: '/about/' }
+  ],
+  footerNav: ['archives', { label: 'About', href: '/about/' }],
   home: {
     recentPosts: {
       enabled: true,
-      limit: 3
+      limit: 5
     }
   },
   list: {
