@@ -1,5 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import type { Locale } from '../../config/i18n';
 import { getLocalePath } from '../../config/i18n';
@@ -7,6 +8,7 @@ import { siteConfig } from '../../config/site';
 import { useTranslations } from '../../i18n/utils';
 import PostList from '../content/PostList.astro';
 import ViewAll from '../ui/ViewAll.astro';
+import authorPortrait from '../../content/pages/en/about/portrait.jpg';
 
 interface Props {
   locale: Locale;
@@ -17,13 +19,6 @@ const { locale, recentPosts } = Astro.props;
 const { author } = siteConfig;
 const t = useTranslations(locale);
 
-function assetPath(path: string) {
-  if (/^(https?:)?\/\//.test(path) || path.startsWith('data:')) return path;
-  const base = import.meta.env.BASE_URL || '/';
-  return `${base.replace(/\/?$/, '/')}${path.replace(/^\//, '')}`;
-}
-
-const avatarSrc = assetPath(author.avatar);
 ---
 
 <div class="space-y-fl-l">
@@ -31,9 +26,11 @@ const avatarSrc = assetPath(author.avatar);
     <div
       class="flex flex-col items-center gap-6 text-center md:flex-row md:items-start md:text-left"
     >
-      <img
-        src={avatarSrc}
+      <Image
+        src={authorPortrait}
         alt={author.name}
+        width={192}
+        height={192}
         class="h-24 w-24 shrink-0 rounded-full border border-border object-cover"
       />
 

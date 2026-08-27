@@ -10,13 +10,12 @@ export const siteConfig = {
       en: 'Head of Product at instacar'
     },
     description: {
-      en: 'Writing about pragmatic product management, mindset, and the occasional side project. This blog is a document of my journey.'
+      en: 'On the Quest to Master My Craft: “A Pragmatic Product Management Journey”'
     },
     avatar: '/favicon.svg',
     social: [
       { name: 'LinkedIn', url: 'https://www.linkedin.com/in/dimosthenis-avgeris/', icon: 'simple-icons:linkedin' },
-      { name: 'GitHub', url: 'https://github.com/dimosthenisav', icon: 'simple-icons:github' },
-      { name: 'Email', url: 'mailto:dimosthenisavgeris@gmail.com', icon: 'lucide:mail' }
+      { name: 'GitHub', url: 'https://github.com/dimosthenisav', icon: 'simple-icons:github' }
     ]
   },
   contentWidth: '56rem',
