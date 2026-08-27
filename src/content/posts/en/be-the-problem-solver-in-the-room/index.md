@@ -3,6 +3,7 @@ title: "Be the Problem Solver in the Room"
 description: "Two reminders I hold close in stressful cross-functional meetings, carried over from my marketing days: be prepared, and be the problem solver in the room."
 date: 2023-10-15
 tags: ["product"]
+cover: "./01.jpg"
 ---
 
 Recently, I participated in an all-hands meeting alongside our CEO and the C-level team. The core objective was to evaluate the roadmap and the features we're gearing up to develop, and to address communication challenges with key groups — primarily concerning the OPS team and their requests. Essentially, it was a session of evaluation.

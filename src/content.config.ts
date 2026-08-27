@@ -12,7 +12,6 @@ const baseSchema = z.object({
   date: z.coerce.date().optional(),
   updatedDate: z.coerce.date().optional(),
   draft: z.boolean().default(false),
-  cover: z.string().optional(),
   lang: localeEnum.optional(),
   toc: z.union([z.boolean(), z.enum(['center', 'side'])]).optional(),
   comments: z.boolean().optional(),
@@ -24,12 +23,15 @@ const baseSchema = z.object({
 
 const posts = defineCollection({
   loader: glob({ base: './src/content/posts', pattern: '**/*.{md,mdx}' }),
-  schema: baseSchema.extend({
-    date: z.coerce.date(),
-    tags: z.array(taxonomyTerm).default([]),
-    // Subposts within a series folder are ordered by `order`, then date, then id.
-    order: z.number().optional()
-  })
+  schema: ({ image }) =>
+    baseSchema.extend({
+      date: z.coerce.date(),
+      tags: z.array(taxonomyTerm).default([]),
+      // Featured image, co-located in the post folder: `cover: ./01-foo.jpg`.
+      cover: image().optional(),
+      // Subposts within a series folder are ordered by `order`, then date, then id.
+      order: z.number().optional()
+    })
 });
 
 // Projects are frontmatter-only link cards: the Markdown body is never rendered
@@ -49,9 +51,11 @@ const projects = defineCollection({
 
 const pages = defineCollection({
   loader: glob({ base: './src/content/pages', pattern: '**/*.{md,mdx}' }),
-  schema: baseSchema.extend({
-    layout: z.enum(['page', 'timeline']).default('page')
-  })
+  schema: ({ image }) =>
+    baseSchema.extend({
+      cover: image().optional(),
+      layout: z.enum(['page', 'timeline']).default('page')
+    })
 });
 
 export const collections = {

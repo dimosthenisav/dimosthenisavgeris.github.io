@@ -3,6 +3,7 @@ title: "BoxNow x instacar"
 description: "Shipping car key delivery through BoxNow lockers at instacar — a self-service pickup flow that touched the app, our internal fleet tooling, and external webhooks."
 date: 2026-04-06
 tags: ["product"]
+cover: "./01-delivery-method-selection.png"
 ---
 
 We shipped something a bit unusual this year at instacar: car key delivery through a [BoxNow locker](https://www.linkedin.com/posts/instakar_instacar-boxnow-activity-7440032055549267968-wqGp).

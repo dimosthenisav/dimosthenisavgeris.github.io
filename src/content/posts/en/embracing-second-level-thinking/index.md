@@ -3,6 +3,7 @@ title: "Embracing Second-Level Thinking"
 description: "Laurence Endersen's second-level thinking — probing past the obvious first answer — and why it's invaluable in product management."
 date: 2024-02-24
 tags: ["mindset"]
+cover: "./01.jpg"
 ---
 
 In Laurence Endersen's book *Pebbles of Perception*, second-level thinking is a method that goes beyond the obvious. It involves probing deeper into the first reactions or answers we have about a situation. This kind of thinking requires skepticism, not cynicism, allowing for a more nuanced understanding.

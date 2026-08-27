@@ -3,6 +3,7 @@ title: "The Reset"
 description: "Swapping the office view for a beach on Amorgos. A reset isn't a vacation — it's a mindful choice to step away, recharge, and come back with a new perspective."
 date: 2023-07-12
 tags: ["mindset"]
+cover: "./01-amorgos.jpg"
 ---
 
 Today, I swapped my usual office view for a calming beach scene on [Amorgos](https://en.wikipedia.org/wiki/Amorgos) island. Usually my days are packed with meetings, decisions, and problem-solving. But today, the only decision I had to make was whether to swim in the clear water or relax in the sun.

@@ -3,6 +3,7 @@ title: "I Hired My First PM"
 description: "The Ledger Assessment Method: ask candidates to rebuild the core of a product you already use, and watch how they think about product entities — not the tech."
 date: 2023-09-10
 tags: ["product"]
+cover: "./01-assessment-timeline.png"
 ---
 
 Hiring the right PM is a critical task, especially in a startup or scale-up environment where every role is pivotal and resources are limited. Assembling marketing teams over my career has given me some valuable insights into the hiring process. But when the time came to hire my first Product Manager at instacar, I knew I needed a different approach. Let's call it "The Ledger Assessment Method".

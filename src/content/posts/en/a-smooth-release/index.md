@@ -3,6 +3,7 @@ title: "A Smooth Release"
 description: "How instacar shipped 12- and 24-month leasing plans: from customer signal to design to a cross-team launch — and why a smooth release is a compound-effect story."
 date: 2024-03-01
 tags: ["product"]
+cover: "./01-brainstorming.jpg"
 toc: "side"
 ---
 

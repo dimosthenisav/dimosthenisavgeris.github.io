@@ -3,6 +3,7 @@ title: "Don't Sleep on Microsoft Clarity"
 description: "After three years using Microsoft Clarity for instacar's product optimization: how behavioral evidence turns 'what happened' analytics into 'why it happened' product decisions."
 date: 2025-08-12
 tags: ["product"]
+cover: "./01-main-dashboard.png"
 toc: "side"
 ---
 

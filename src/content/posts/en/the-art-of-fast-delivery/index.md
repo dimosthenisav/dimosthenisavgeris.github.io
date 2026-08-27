@@ -3,6 +3,7 @@ title: "The Art of Fast Delivery"
 description: "A talk co-presented at Product Tank Athens on the mechanics and philosophy behind instacar's culture of velocity — empowerment, meetings, strategy over OKRs, and doing over planning."
 date: 2024-03-28
 tags: ["product"]
+cover: "./00.jpg"
 gallery: true
 lightbox: true
 ---

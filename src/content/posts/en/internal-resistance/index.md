@@ -3,6 +3,7 @@ title: "Internal Resistance"
 description: "How instafleet went from a tool various departments were skeptical of to one they rely on — by involving people early, through Ticket Master and co-speccing features."
 date: 2024-02-27
 tags: ["product"]
+cover: "./01.jpg"
 ---
 
 The story of instafleet at [instacar](https://www.instacar.gr/) is a compelling narrative about overcoming initial resistance to embrace innovation. Initially facing skepticism from various departments, our team's strategic approach transformed instafleet into a widely used and appreciated tool across the company.

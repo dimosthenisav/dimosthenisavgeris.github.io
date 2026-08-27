@@ -3,6 +3,7 @@ title: "Geekbot is a Silent Hero"
 description: "Swapping the early-morning standup for an async, text-based check-in via Geekbot — keeping the benefits of the daily standup while ditching the downsides."
 date: 2023-08-24
 tags: ["product"]
+cover: "./01-geekbot-standup.png"
 ---
 
 Daily standups have long been popular in team management for their ability to improve communication and effectiveness. Some studies suggest that effective daily standups can improve team cohesion by up to 50% and remove blockers to progress (see the [Atlassian Agile Coach](https://www.atlassian.com/agile/scrum/standups)).

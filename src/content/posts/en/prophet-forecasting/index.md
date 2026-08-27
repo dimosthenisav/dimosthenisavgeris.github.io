@@ -3,6 +3,7 @@ title: "Prophet Forecasting"
 description: "A step-by-step walk through forecasting and anomaly detection with Prophet in a Colab notebook — from data format to fitting a model to reading the components."
 date: 2023-11-07
 tags: ["product"]
+cover: "./01-colab-upload.png"
 toc: "side"
 ---
 

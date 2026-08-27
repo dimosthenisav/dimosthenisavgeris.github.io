@@ -3,6 +3,7 @@ title: "1st instacar Hackathon"
 description: "Our first hackathon — product, marketing, and tech in one room for a day, building LeaseAi, an AI-driven chatbot, with a 'less is more' design philosophy."
 date: 2023-12-19
 tags: ["product"]
+cover: "./01-team.jpg"
 ---
 
 Today marks a milestone in both instacar's journey and my own — our first hackathon, an event that brought together diverse minds and talents from product, marketing, and tech to shape a new vision for our users' experience. It's a day that underscores our commitment to innovation, reflected in the development of **LeaseAi**, our AI-driven chatbot.

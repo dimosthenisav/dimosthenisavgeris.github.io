@@ -1,5 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import type { Locale } from '../../config/i18n';
 import {
@@ -61,9 +62,11 @@ const tags = entry.data.tags.slice(0, 4);
         entry.data.cover && (
           <div class="order-first p-3 pb-0 md:order-last md:w-56 md:shrink-0 md:self-center md:p-3 md:pl-0">
             <div class="aspect-video overflow-hidden rounded-xs bg-muted">
-              <img
+              <Image
                 src={entry.data.cover}
                 alt=""
+                width={640}
+                height={360}
                 class="h-full w-full object-cover"
                 loading="lazy"
               />

@@ -3,6 +3,7 @@ title: "TIL: Aim, Assemble, Achieve"
 description: "The AAA framework Shopify's product team uses to clarify responsibilities on projects — separating the person who aims from the ones who assemble and achieve."
 date: 2023-07-25
 tags: ["product"]
+cover: "./01-aaa-framework.png"
 ---
 
 That's not a motivational speech. That's the AAA framework that Shopify's product team uses for clarifying responsibilities on projects.

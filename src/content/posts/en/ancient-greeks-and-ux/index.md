@@ -3,6 +3,7 @@ title: "Ancient Greeks and UX"
 description: "UX might look like a product of the digital age, but the ancient Greeks were doing it — in architecture, ergonomic tool design, and the Socratic method."
 date: 2023-08-12
 tags: ["design"]
+cover: "./01-uxcel.png"
 ---
 
 The world of User Experience (UX) might seem like a product of the digital age, but its roots run deep into history, notably with the ancient Greeks. While they didn't have digital interfaces or software applications, their profound understanding of human nature, aesthetics, and functionality laid the groundwork for what we now recognize as UX principles.

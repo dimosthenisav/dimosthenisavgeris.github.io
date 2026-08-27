@@ -3,6 +3,7 @@ title: "LLM Wiki Framework with Claude Code"
 description: "Using Claude Code as a long-term knowledge manager: an Obsidian wiki that Claude maintains from raw source documents, plus the ticket, design, and meeting workflows built on top."
 date: 2026-04-20
 tags: ["product", "business", "AI"]
+cover: "./01-llm-wiki.png"
 ---
 
 > This setup was built and is maintained with Claude Code (Sonnet 4.6), which acts as both the builder and the long-term knowledge manager.

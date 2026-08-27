@@ -3,6 +3,7 @@ title: "Slack Ruined by New UI"
 description: "Slack's redesign 'built for focus' — from a user's chair, merged workspaces and gradient colors feel weird, and I didn't know I needed any of it."
 date: 2023-09-13
 tags: ["design"]
+cover: "./01-sidebar.webp"
 ---
 
 Slack recently rolled out a new UI/UX update aimed at "enhancing user experience and productivity" ([official release](https://slack.com/blog/productivity/a-redesigned-slack-built-for-focus)). While innovation is always welcome, it's equally important to understand how these changes are received by the actual user — and oh my, some of these changes feel weird, and honestly I didn't even know I needed them.

@@ -3,6 +3,7 @@ title: "CarBoldie Game"
 description: "Building a simple 8-bit browser game around our company mascot with Claude as a patient coding teacher — canvas, collision detection, power-ups, and every mistake along the way."
 date: 2024-08-08
 tags: ["product"]
+cover: "./01-carboldie.gif"
 toc: "side"
 ---
 
