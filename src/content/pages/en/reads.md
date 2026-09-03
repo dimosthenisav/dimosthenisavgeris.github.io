@@ -1,10 +1,10 @@
 ---
 title: "Reads & Resources"
-description: "A streamlined collection of content I've found exceptionally insightful over time — a personal backlog, shared with the team. ⭐ marks a must-read."
+description: "A streamlined collection of content I've found exceptionally insightful over time. A personal backlog, shared with the team. ⭐ marks a must-read."
 toc: "side"
 ---
 
-A collection of intriguing and valuable content I've found exceptionally insightful over time. I keep this list streamlined and impactful — it's a personal backlog to delve into later, and it's shared across the team at instacar. If you're here, feel free to explore and tap into the same insights that keep us informed and inspired.
+A collection of intriguing and valuable content I've found exceptionally insightful over time. I keep this list streamlined and impactful; it's a personal backlog to delve into later, and it's shared across the team at instacar. If you're here, feel free to explore and tap into the same insights that keep us informed and inspired.
 
 ⭐ = must-read.
 
@@ -12,10 +12,10 @@ A collection of intriguing and valuable content I've found exceptionally insight
 
 - ⭐ [Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
 - ⭐ [How product analytics work](https://technically.substack.com/p/how-do-product-analytics-work)
-- ⭐ [UX hints — Occam's Razor in UX design](https://uxhints.com/ux-laws/occams-razor-law-in-ux-design/)
+- ⭐ [UX hints: Occam's Razor in UX design](https://uxhints.com/ux-laws/occams-razor-law-in-ux-design/)
 - ⭐ [Velocity over everything: how Ramp ships fast](https://www.lennysnewsletter.com/p/velocity-over-everything-how-ramp)
 - ⭐ [Webhooks explained for product managers](https://www.departmentofproduct.com/blog/webhooks-explained-for-product-managers/)
-- ⭐ [Why roadmaps don't work — the feature-less roadmap](https://www.productplan.com/webinars/feature-less-roadmap/)
+- ⭐ [Why roadmaps don't work: the feature-less roadmap](https://www.productplan.com/webinars/feature-less-roadmap/)
 - [A new way to measure developer productivity](https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework)
 - [Code Interpreter for PMs](https://corpwaters.substack.com/p/code-interpreter-guide-for-product)
 - [How I built a Chrome extension using ChatGPT](https://www.linkedin.com/posts/billstath_how-i-built-a-chrome-extension-using-chatgpt-activity-7065312779577999360-soF3)
@@ -36,7 +36,7 @@ A collection of intriguing and valuable content I've found exceptionally insight
 - ⭐ [The rise of the car subscription market (BCG)](https://www.bcg.com/publications/2023/the-rise-of-the-car-subscription-market)
 - ⭐ [A new breed of car financing: feature bundles and embedded services (McKinsey)](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/a-new-breed-of-car-financing-feature-bundles-and-embedded-services)
 - ⭐ [Marketplaces in the age of AI (a16z)](https://a16z.com/marketplaces-in-the-age-of-ai/)
-- ⭐ [Subscription business model and revenue recognition — a working guide](https://truerev.com/blog/subscription-business-model-and-revenue-recognition-working-guide-with-examples)
+- ⭐ [Subscription business model and revenue recognition: a working guide](https://truerev.com/blog/subscription-business-model-and-revenue-recognition-working-guide-with-examples)
 - [Finance for non-finance people](https://souzana.substack.com/p/finance-for-non-finance-people-in)
 - [How car subscriptions impact auto sales (BCG)](https://www.bcg.com/publications/2021/how-car-subscriptions-impact-auto-sales)
 - [Online sales and subscriptions will shape tomorrow's car financing journey (McKinsey)](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/online-sales-and-subscriptions-will-shape-tomorrows-car-financing-journey)
