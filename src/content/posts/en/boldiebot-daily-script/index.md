@@ -3,7 +3,7 @@ title: "BoldieBot Daily Script"
 description: "A small Python script that pushes daily GA4 metrics into Slack for non-analytical teams — so company performance shows up without anyone opening an analytics tool."
 date: 2024-09-10
 tags: ["product"]
-cover: "./01-boldiebot.png"
+cover: "./00-cover.jpg"
 toc: "side"
 ---
 

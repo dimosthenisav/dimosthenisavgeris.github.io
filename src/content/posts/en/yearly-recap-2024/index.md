@@ -3,7 +3,7 @@ title: "Yearly Recap 2024"
 description: "A visual recap of everything we shipped at instacar in 2024 — making leasing easier, more flexible, and more user-friendly."
 date: 2025-01-15
 tags: ["product"]
-cover: "./00.jpg"
+cover: "./00-cover.jpg"
 gallery: true
 lightbox: true
 ---

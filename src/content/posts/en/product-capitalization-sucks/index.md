@@ -3,7 +3,7 @@ title: "Product Capitalization Sucks"
 description: "My first product capitalization process — the mistakes to avoid, the rule of thumb, and why (despite everything) it's a valuable exercise for resource allocation."
 date: 2023-07-27
 tags: ["product"]
-cover: "./01-capitalization-sheet.png"
+cover: "./00-cover.jpg"
 ---
 
 Ok. Product Capitalization as a process sucks.

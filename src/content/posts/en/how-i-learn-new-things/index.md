@@ -3,7 +3,7 @@ title: "How I Learn New Things"
 description: "A practical research stack: one precise prompt, run across multiple LLMs, consolidated in NotebookLM and a mind map — built to resist single-source bias."
 date: 2025-04-21
 tags: ["mindset"]
-cover: "./01-notebooklm-mindmap.gif"
+cover: "./00-cover.webp"
 toc: "side"
 ---
 

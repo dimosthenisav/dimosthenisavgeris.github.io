@@ -3,7 +3,7 @@ title: "Building a Pokémon Tracker"
 description: "Shipping a match-tracking app for Pokémon TCG Pocket in about 4 hours with Lovable — where AI tooling flew, where I still had to think like an engineer."
 date: 2025-06-15
 tags: ["product", "tools"]
-cover: "./01-haunter.webp"
+cover: "./00-cover.jpg"
 toc: "side"
 ---
 

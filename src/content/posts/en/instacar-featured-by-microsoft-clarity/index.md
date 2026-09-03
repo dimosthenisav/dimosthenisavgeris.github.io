@@ -3,6 +3,7 @@ title: "instacar Featured by Microsoft Clarity"
 description: "instacar made it into an official Microsoft Clarity case study — an unexpected result of writing up how the team uses behavioral analytics."
 date: 2025-10-15
 tags: ["product"]
+cover: "./00-cover.png"
 ---
 
 instacar made it into an official Microsoft Clarity case study! 🚀
