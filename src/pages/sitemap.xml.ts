@@ -19,7 +19,6 @@ export async function GET({ site, url }: { site?: URL; url: URL }) {
   const staticPaths = locales.flatMap((locale) => [
     getLocalePath(locale, '/'),
     getLocalePath(locale, '/posts/'),
-    getLocalePath(locale, '/projects/'),
     getLocalePath(locale, '/archives/'),
     getLocalePath(locale, '/rss.xml')
   ]);

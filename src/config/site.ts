@@ -33,7 +33,6 @@ export const siteConfig = {
   // { label: { en: 'About', 'zh-cn': '关于' }, href: '/about/' }
   nav: [
     'posts',
-    'projects',
     'archives',
     { label: 'Reads', href: '/reads/' },
     { label: 'About', href: '/about/' }
