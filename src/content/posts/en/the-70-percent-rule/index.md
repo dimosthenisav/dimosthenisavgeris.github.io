@@ -3,7 +3,6 @@ title: "The 70% Rule"
 description: "If someone can do it 70% as well as you, delegate it. Your extra 30% is rarely worth what it costs."
 date: 2026-10-13
 tags: ["mindset"]
-cover: "./01-cover.webp"
 ---
 
 If someone else can do a task 70% as well as you, give it to them.
